@@ -106,12 +106,5 @@ Pull requests, bug reports, and feature suggestions are welcome! Some ideas for 
 📜 License
 No license specified in the source header. Please contact the author before redistribution.
 
-👤 Author
-Tom StarSky
-If this add-on saved you time in the workshop, consider giving it a ⭐ on GitHub!
-
-<p align="center">
-  Made with 🪚 and 🐍 for woodworkers who model in Blender.
-</p>
 
 A few notes on what I added: badges at the top, collapsible dependency-install section, a Mermaid workflow diagram (renders natively on GitHub), emoji section headers for scannability, a contributing checklist, and a centered footer. If you'd like, I can also generate a LICENSE file suggestion (MIT is most common for Blender add-ons), draft a CHANGELOG.md, or create placeholder spots for screenshots/GIFs once you have them.
