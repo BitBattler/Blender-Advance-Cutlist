@@ -19,10 +19,10 @@ Cutter-x-list reads the mesh objects in your Blender scene and generates everyth
 🌍 Bilingual UI — English and German, switchable on the fly
 
 🚀 Quick Start
-bash# 1. Download cutter_x_list.py
-# 2. In Blender: Edit → Preferences → Add-ons → Install...
-# 3. Select the file and enable the checkbox
-# 4. Open the N-Panel in the 3D Viewport → "Cutlist" tab
+1. Download cutter_x_list.py
+2. In Blender: Edit → Preferences → Add-ons → Install...
+3. Select the file and enable the checkbox
+4. Open the N-Panel in the 3D Viewport → "Cutlist" tab
 That's it. You're ready to cut. 🎉
 
 📦 Dependencies
